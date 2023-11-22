@@ -6,7 +6,7 @@ export default {
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Free nostr addresses. เพื่อชาว 13Room เพื่ออิรภาพ!",
+  slogan: "Verified nostr addresses. เพื่อชาว 13Room เพื่ออิรภาพ!",
 
   // your donation LNURL
   donationLNUrl:

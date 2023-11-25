@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "zaps.lol",
+  host: "13room.space",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
